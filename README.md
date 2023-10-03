@@ -13,7 +13,7 @@ Hello 👋
 
 ## Want to know about me ? ⚽👦
 
-An enthusiastic developer who is consistently looking for new challenges. I am also a Computer Science nerdy 🤓. I am super ambitious to unlock my potential and achieve more in live.
+An enthusiastic developer who is consistently looking for new challenges. I am also a Computer Science nerdy 🤓. I am super ambitious to unlock my potential and achieve more in life.
 I want to know all about software development and how to enhance it by the experience i will be gaining as a software engineer.
 
 I am interested in the following areas 
